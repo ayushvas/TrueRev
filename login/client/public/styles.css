@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(140, 189, 241);
+    font-family: 'Roboto Slab', serif;
+}
+
+p{
+    font-size: 5rem;
+    color: white;
+}

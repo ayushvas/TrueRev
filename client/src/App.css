@@ -1,0 +1,19 @@
+.p{
+    padding: 0% 15%;
+}
+
+h1{
+    font-size: 5rem;
+    margin-left: 10px
+}
+
+.colone{
+    padding: 15% 0%;
+    color: white;
+}
+
+.row{
+    height: 100vh;
+    overflow: auto;
+    background-color: rgb(63, 145, 232);
+}
